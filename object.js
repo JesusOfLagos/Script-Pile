@@ -14,4 +14,5 @@ example.charAt(100);
 example.substring(1, 4);
 example.substring(1, 2);
 example.substring();
-
+typeof example;
+"Any string".length 
