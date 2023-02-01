@@ -19,3 +19,7 @@ typeof example;
 22, 22.567, 96869749834784705;
 let age = 30;
 typeof age;
+let height = 90;
+typeof height;
+let sum = 90 + 10;
+
