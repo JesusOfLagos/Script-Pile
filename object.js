@@ -16,3 +16,4 @@ example.substring(1, 2);
 example.substring();
 typeof example;
 "Any string".length;
+22, 22.567, 96869749834784705;
