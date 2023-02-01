@@ -22,4 +22,6 @@ typeof age;
 let height = 90;
 typeof height;
 let sum = 90 + 10;
-
+alert(sum);
+let diff = 90 -10;
+console.log(diff);
