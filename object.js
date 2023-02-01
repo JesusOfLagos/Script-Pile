@@ -5,3 +5,4 @@ test.length;
 let p = "Royalty";
 p.length;
 p.bold();
+p.charAt(1);
