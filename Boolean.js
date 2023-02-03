@@ -13,4 +13,5 @@ console.log(1 == 1);
 if (life == 70) console.log("Normal Age");
 elseif (life == 60) console.log("Old Enough");
 elseif (life > 80) console.log("Ancestor");
+elseif (life == 10) console.log("Young");
 
