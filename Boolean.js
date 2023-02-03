@@ -11,4 +11,4 @@ else console.log("Age is not equal to ten");
 console.log(1 == 1);
 
 if (life == 70) console.log("Normal Age");
-elseif (life == 60) console.log("Old Enough")
+elseif (life == 60) console.log("Old Enough")'
