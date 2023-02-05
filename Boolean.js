@@ -19,3 +19,7 @@ elseif (life <= 39 ) console.log("Youth");
 
    let addition = '+';
 
+
+  let Muslim = "Radar";
+
+
