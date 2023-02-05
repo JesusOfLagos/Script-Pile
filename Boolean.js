@@ -21,5 +21,7 @@ elseif (life <= 39 ) console.log("Youth");
 
 
   let Muslim = "Radar";
+  let Mu'meen = "Better";
+  let Muhsin = "Great";
 
 
