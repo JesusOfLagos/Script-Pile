@@ -25,3 +25,6 @@ elseif (life <= 39 ) console.log("Youth");
   let Muhsin = "Great";
 
 
+  let Mural = "Wants";
+
+
