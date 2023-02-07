@@ -30,6 +30,6 @@ elseif (life <= 39 ) console.log("Youth");
   console.log('I am ${Muhsin}');
 
    if (name = Muslim)
-      console.log
+      console.log('You are the ${Muslim}');
 
 
