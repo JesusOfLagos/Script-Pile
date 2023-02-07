@@ -1,2 +1,3 @@
 if ( request === TWS ) {
-     console.log
+     console.log("You are welcome, Debater");
+}
