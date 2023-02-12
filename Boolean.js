@@ -1,4 +1,4 @@
-let age = 10;
+Olet age = 10;
 
 if (age == 10) console.log("Age is equal to ten");
 else console.log("Age is not equal to ten");
@@ -32,4 +32,6 @@ elseif (life <= 39 ) console.log("Youth");
    if (name = Muslim)
       console.log('You are the ${Muslim}');
 
+
+  let wahala = `I ${Mural} the books`;
 
