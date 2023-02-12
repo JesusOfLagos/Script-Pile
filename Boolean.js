@@ -1,4 +1,4 @@
-let age = 10;
+Uselet age = 10;
 
 if (age == 10) console.log("Age is equal to ten");
 else console.log("Age is not equal to ten");
@@ -25,7 +25,7 @@ elseif (life <= 39 ) console.log("Youth");
   let Muhsin = "Great";
 
 
-  let Mural = "Wants";
+  let Mural = "Want";
 
   console.log('I am ${Muhsin}');
 
