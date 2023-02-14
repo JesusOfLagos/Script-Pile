@@ -31,3 +31,31 @@ let division = 90 / 10;
 console.log(division);
 let remainder = 90 % 10;
 console.log(remainder);
+
+
+
+
+let mainUser = prompt("What is your name?"),
+ expectationBox = prompt("What do you want from us, man?"), 
+ userName = prompt("Enter your spouse's name."),
+  Gender = prompt("Is your spouse Male or Female?");
+
+if (Gender === "Male"){
+    Gender = "He";
+} else   {
+    Gender = "She";
+}
+let numericalGift = prompt("How many times do you want us to replicate your love?");
+let ourReply = alert(`Dear ${mainUser}, We will do something about your ${expectationBox}`);
+
+if (mainUser){
+alert(`May the blessings of Allah The Almighty be with you, Dear ${mainUser}. Hopefully, ${Gender} will love you back in ${numericalGift} manifolds.`);
+}
+if (expectationBox){
+    console.log("You are just one of those men with so much ambition.");
+}
+console.log(userName);
+
+console.log(mainUser);
+
+console.log(numericalGift + " " + userName);
