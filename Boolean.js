@@ -29,9 +29,9 @@ elseif (life <= 39 ) console.log("Youth");
 
   console.log('I am ${Muhsin}');
 
-   if (name = Muslim)
+   if (name = Muslim){
       console.log('You are the ${Muslim}');
-
+}
 
   let wahala = `I ${Mural} the books`;
 
