@@ -1,1 +1,22 @@
 //Hi, life can't be this hard, especially with the presence of love 
+
+
+let userNumber = prompt("Enter The Required Number");{
+   if (userNumber === 0 ) {
+    alert("Device not compatible.");
+   }
+  //  else if ( userNumber % 3 === 0 & userNumber % 5 === 0) {
+  //    alert("FizzBuzz");
+  //  } 
+  //  else if ( userNumber % 3 === 0) {
+  //   alert("Buzz");
+  // } 
+  // else if(userNumber % 5 === 0) {
+  //   alert("Fizz");
+  // }
+  //  else {
+  //   alert(userNumber);
+  // }
+
+}
+ 
