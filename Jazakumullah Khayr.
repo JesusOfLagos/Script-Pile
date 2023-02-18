@@ -5,7 +5,7 @@ let userNumber = prompt("Enter The Required Number");{
    if (userNumber === 0 ) {
     alert("Device not compatible.");
    }
-  //  else if ( userNumber % 3 === 0 & userNumber % 5 === 0) {
+  //  else if ( userNumber % 3 === 0 && userNumber % 5 === 0) {
   //    alert("FizzBuzz");
   //  } 
   //  else if ( userNumber % 3 === 0) {
