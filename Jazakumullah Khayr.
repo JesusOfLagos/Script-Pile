@@ -19,4 +19,9 @@ let userNumber = prompt("Enter The Required Number");{
   // }
 
 }
- 
+
+
+let radar = "palmpay";
+let palmpay = "radar";
+
+// what do we intend to achieve from this? Watch out.
