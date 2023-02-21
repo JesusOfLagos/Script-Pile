@@ -59,3 +59,6 @@ console.log(userName);
 console.log(mainUser);
 
 console.log(numericalGift + " " + userName);
+
+
+let welcomeAddress = "Welcome To NIDUS 2.1";
