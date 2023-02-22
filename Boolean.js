@@ -36,3 +36,5 @@ elseif (life ===120) console.log("I am tired!");
 
   let wahala = `I ${Mural} the books`;
 
+console.log(wahala);
+
