@@ -62,3 +62,5 @@ console.log(numericalGift + " " + userName);
 
 
 let welcomeAddress = "Welcome To NIDUS 2.1";
+
+const staleReply = `You are ${}`;
