@@ -1,7 +1,8 @@
 let age = 10;
+let date = age * 2;
 
 if (age == 10) console.log("Age is equal to ten");
-else console.log("Age is not equal to ten");
+else console.log(`Age is not equal to ten, but ${date}`);
 age = 20;
 
 if (age == 10) console.log("Age is equal to ten");
