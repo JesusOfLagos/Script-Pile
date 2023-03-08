@@ -39,3 +39,6 @@ elseif (life ===120) console.log("I am tired!");
 
 console.log(`I said; "${wahala}");
 
+
+let me = "Tired";
+
