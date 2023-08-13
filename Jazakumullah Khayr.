@@ -1,4 +1,5 @@
-//Hi, life can't be this hard, especially with the presence of love 
+//Hi, life can't be this hard, especially with the presence of love.
+//Basically, an edge over a lot of stuffs.
 
 
 let userNumber = prompt("Enter The Required Number");{
